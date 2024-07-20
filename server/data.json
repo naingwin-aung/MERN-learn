@@ -1,0 +1,20 @@
+[
+  {
+    "_id": { "$oid": "23428348203434b0" },
+    "title": "The Greate Gatsby",
+    "thumbnail": "the-great-gatsby.jpg",
+    "slug": "the-grate-gatsby",
+    "description": "First published in 1925, F. Scott Fitzgerald's ``The Greate Gatsby`` is widely hailed as one of the",
+    "stars": 5,
+    "category": ["romance", "science"]
+  },
+  {
+    "_id": { "$oid": "32523452345der" },
+    "title": "The Hobbit",
+    "thumbnail": "the-hobbit.jpg",
+    "slug": "the-hobbit",
+    "description": "This book is a critical introduction to J.R.R Tolkien's The Hobbit,",
+    "stars": 5,
+    "category": ["crime", "food"]
+  }
+]
